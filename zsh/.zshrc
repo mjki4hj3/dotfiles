@@ -113,9 +113,3 @@ alias kns='kubens'
 alias kcx='kubectx'
 alias wkgp='watch kubectl get pod'
 alias pip=pip3
-
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/hjama/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/hjama/Downloads/google-cloud-sdk/path.zsh.inc'; fi
-
-# The next line enables shell command completion for gcloud.
-if [ -f '/Users/hjama/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/hjama/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
